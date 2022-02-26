@@ -1,8 +1,9 @@
 # Oi, eu me chamo Dharlison Dhovan
 # Bem vindo(a) ao meu GitHub 😊
-   
+<div  style="display:inline-block">
+ <img width="70" height="60" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="programming">
 ![Dharlison GitHub stats](https://github-readme-stats.vercel.app/api?username=DharlisonDhovan&show_icons=true&theme=swift)
-
+</div>
 ## Conhecimentos
   <div style="display:inline-block">
         <img width="50" height="40" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
