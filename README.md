@@ -1,6 +1,5 @@
 # Oi, eu me chamo Dharlison Dhovan
 # Bem vindo(a) ao meu GitHub 😊
-   <img width="100" height="90" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="programming">
    
 ![Dharlison GitHub stats](https://github-readme-stats.vercel.app/api?username=DharlisonDhovan&show_icons=true&theme=swift)
 
@@ -13,5 +12,6 @@
  
 ## Aprendendo
 <div style="display:inline-block">
+   <img width="100" height="90" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="programming">
    <img  width="60" height="50" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 </div>
